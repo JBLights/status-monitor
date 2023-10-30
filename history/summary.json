@@ -4,17 +4,19 @@
     "url": "https://fpp.brandon3.me",
     "icon": "https://icons.duckduckgo.com/ip3/fpp.brandon3.me.ico",
     "slug": "falcon-player",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 567,
-    "timeWeek": 568,
-    "timeMonth": 568,
-    "timeYear": 568,
-    "dailyMinutesDown": {}
+    "time": 495,
+    "timeDay": 385,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   }
 ]
